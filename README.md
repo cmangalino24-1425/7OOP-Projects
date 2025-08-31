@@ -15,7 +15,7 @@ Bio
 - 
 
 ## Programming Languages & Tools
-- **Languages:** 
+- 
 
 ## Projects
 - **Project Name 1** — 
@@ -26,14 +26,10 @@ Bio
   🔗 : 
 
 ## Fun Facts
-- 🧩 
-- ☕ 
-- 🎮 
+ 
 
 ## Contact
 - ✉️ Email: 
 - 🧵 Facebook: 
-- 🐦 Twitter/X: https://twitter.com/YOUR-LINK
-- 🌐 Portfolio: https://YOUR-USERNAME.github.io
 
 > *Feel free to reach out for collaboration or just to say hi!*
