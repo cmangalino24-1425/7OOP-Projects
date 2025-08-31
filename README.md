@@ -21,7 +21,7 @@ Bio
 - **Project Name 1** — 
   🔗 : 
 - **Project Name 2** — 
-  🔗 C: 
+  🔗 : 
 - **Project Name 3** — 
   🔗 : 
 
