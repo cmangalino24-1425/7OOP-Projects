@@ -23,22 +23,14 @@ Bio
 - Python
 
 ## Projects
-<div align="left">  
-  <p style="line-height: 1.8;">  
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(1.1)Yumul%2C%20Mangalino%20OOP%20(Midterm%20Paired%20Task%201).jpg" target="_blank">(1.1) Midterm Paired Task 1</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(1.2)Yumul%2C%20Mangalino%20Code%20(Midterm%20Paired%20Task%201).jpg" target="_blank">(1.2) Midterm Paired Task 1</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(2)%20Midterm%20Lab%20Task%201%20Getting%20started%20with%20Python.pdf" target="_blank">(2) Midterm Lab Task Set 1</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(3)%20Midterm%20Lab%20Task%202%20Loop%20Construct.pdf" target="_blank">(3) Midterm Lab Task 2</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(4)%20Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">(4) Midterm Lab Task 3. Using List Collections</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(5.1)Practice%20Task%20using%20Collections.png" target="_blank">(5.1) Practice Task using Collections</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(5.2)Practice%20Task%20using%20Collections.png" target="_blank">(5.2) Practice Task using Collections</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(6.1)%20Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.png" target="_blank">(6.1) Midterm Lab Task 4. Using Dictionary Collections</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(6.2)%20Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.png" target="_blank">(6.2) Midterm Lab Task 4. Using Dictionary Collections</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(7)%20Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">(7) Midterm Lab Task 5. Creating and Instantiating</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(8.1)%20Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">(8.1) Midterm Lab Task 6. Overloaded Constructors</a></b><br>
-    - <b><a href="https://github.com/cmangalino24-1425/7OOP-Projects/blob/main/projects/(8.2)Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">(8.2) Midterm Lab Task 6. Overloaded Constructors</a></b><br>
-  </p>  
-</div> 
+<div align="left" style="margin-left: 60px; line-height: 2;">
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
+  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Consturctors</a></p>
+</div>
 
 ## Fun Facts
  - I love cooking, traveling, adventure
