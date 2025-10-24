@@ -28,7 +28,7 @@ Bio
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Consturctors</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Constructors</a></p>
 </div>
 
 ## Fun Facts
