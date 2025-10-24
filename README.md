@@ -24,11 +24,11 @@ Bio
 
 ## Projects
 <div align="left" style="margin-left: 60px; line-height: 2;">
-  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
-  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
-  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
-  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
-  <p>📄 <a href="./Projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
+  <p>📄 <a href="./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
   <p>📄 <a href="./Projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Consturctors</a></p>
 </div>
 
