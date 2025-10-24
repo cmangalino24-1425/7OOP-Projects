@@ -23,7 +23,7 @@ Bio
 - Python
 
 ## Projects
-<div align="left" style="margin-left: 60px; line-height: 2;">
+<div align="left" style="line-height: 2;">
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
   <p>📄 <a href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
