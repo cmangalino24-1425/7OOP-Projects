@@ -1,14 +1,27 @@
+/* Light purple background for the whole screen */
 body {
-  background-color: #C3B1E1 !important;
+  background-color: #C3B1E1; /* light purple */
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;   /* center horizontally */
+  padding-top: 40px;         /* optional spacing */
+  padding-bottom: 40px;
 }
 
+/* Main content box, centered */
 .inner {
-  background-color: #46246a !important;
-  padding: 20px !important;
-  border-radius: 12px !important;
-  color: white !important;
+  background-color: #46246a; /* dark purple box */
+  width: 90%;
+  max-width: 800px;          /* squeeze page into center column */
+  padding: 30px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: 0 0 20px rgba(0,0,0,0.25);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: white !important;
+/* Make sure text shows properly on dark bg */
+h1, h2, h3, h4, h5, h6,
+p, li, a, strong, em {
+  color: white;
 }
