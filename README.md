@@ -10,9 +10,11 @@
 <img src="assets/img/profile.jpg" alt="Your Name headshot" width="100" align="right" />
 Bio
 
-- 📍 Location: 298 Nursery Road Dona Agrifina subd brgy. Salapungan, Angeles City
-- 🎓 Education: Bachelor of Science in Computer Science - City College of Angeles
-- 💼 Current Role: EMT/Rescuer at Angeles City Disaster Risk Reduction and Management Office And a Student
+📍 Location: 298 Nursery Road Dona Agrifina subd brgy. Salapungan, Angeles City
+
+🎓 Education: Bachelor of Science in Computer Science - City College of Angeles
+
+💼 Current Role: EMT/Rescuer at Angeles City Disaster Risk Reduction and Management Office And a Student
 
 <br clear="right"/>
 
