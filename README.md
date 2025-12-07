@@ -1,5 +1,9 @@
+<div style="background:#C3B1E1; padding:30px;">
+
+  <div style="background:#46246a; padding:25px; border-radius:15px; color:white;">
+
 # Hi, I'm **Chriselle Mangalino** 👋
-<img src="https://via.placeholder.com/1200x200/C3B1E1/FFFFFF" width="100%">
+
 ## About Me
 <img src="assets/img/profile.jpg" alt="Your Name headshot" width="160" align="right" />
 Bio
@@ -23,22 +27,22 @@ Bio
 
 ## Midterms Projects
 <div align="left" style="line-height: 2;">
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
-  <p>📄 <a href="./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Constructors</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%201.%20Getting%20started%20with%20Python.pdf" target="_blank">Midterm Lab Task 1. Getting started with Python</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%202.%20Loop%20Construct.pdf" target="_blank">Midterm Lab Task 2. Loop Construct</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%203.%20Using%20List%20Collections.pdf" target="_blank">Midterm Lab Task 3. Using List Collections</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%204.%20Using%20Dictionary%20Collections.pdf" target="_blank">Midterm Lab Task 4. Using Dictionary Collections</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%205.%20Creating%20and%20Instantiating%20Classes.pdf" target="_blank">Midterm Lab Task 5. Creating and Instantiating Classes</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Midterm%20Lab%20Task%206.%20Overloaded%20Consturctors.pdf" target="_blank">Midterm Lab Task 6. Overloaded Constructors</a></p>
 </div>
 
 ## Finals Projects
 <div align="left" style="line-height: 2;">
-  <p>📄 <a href="./projects/Finals%20Lab%20Task%201.%20Encapsulation.pdf" target="_blank">Finals Lab Task 1. Encapsulation</a></p>
-  <p>📄 <a href="./projects/Finals%20Lab%20Task%202.%20Inheritance.pdf" target="_blank">Finals Lab Task 2. Inheritance</a></p>
-  <p>📄 <a href="./projects/Finals%20Lab%20Task%203.%20Polymorphism.pdf" target="_blank">Finals Lab Task 3. Polymorphism</a></p>
-  <p>📄 <a href="./projects/Finals%20Lab%20task%204.%20Designing%20Tkinter%20GUI%20using%20OOP.pdf" target="_blank">Finals Lab task 4. Designing Tkinter GUI using OOP</a></p>
-  <p>📄 <a href="./projects/Finals%20Lab%20Task%205.%20Designing%20a%20Tkinter%20Window%20and%20adding%20events.pdf" target="_blank">Finals Lab Task 5. Designing a Tkinter Window and adding events</a></p>
-  <p>📄 <a href="./projects/Finals%20Lab%20Task%206.%20Mysql%20and%20Pythod%20CRUD%20using%20CLI.pdf" target="_blank">Finals Lab Task 6. Mysql and Pythod CRUD using CLI</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%201.%20Encapsulation.pdf" target="_blank">Finals Lab Task 1. Encapsulation</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%202.%20Inheritance.pdf" target="_blank">Finals Lab Task 2. Inheritance</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%203.%20Polymorphism.pdf" target="_blank">Finals Lab Task 3. Polymorphism</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20task%204.%20Designing%20Tkinter%20GUI%20using%20OOP.pdf" target="_blank">Finals Lab task 4. Designing Tkinter GUI using OOP</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%205.%20Designing%20a%20Tkinter%20Window%20and%20adding%20events.pdf" target="_blank">Finals Lab Task 5. Designing a Tkinter Window and adding events</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%206.%20Mysql%20and%20Pythod%20CRUD%20using%20CLI.pdf" target="_blank">Finals Lab Task 6. Mysql and Pythod CRUD using CLI</a></p>
   📄Finals Lab Task 7. Tkinter CRUD GUI - Exempted
 </div>
 
@@ -53,3 +57,6 @@ Bio
 - 📱 Number: 09168583514
 
 > *Feel free to reach out for collaboration or just to say hi!*
+
+  </div>
+</div>
