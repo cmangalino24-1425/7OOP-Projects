@@ -1,26 +1,24 @@
-/* Light purple background for the whole screen */
+/* Light purple background for whole page */
 body {
-  background-color: #C3B1E1; /* light purple */
+  background-color: #E6D6F0; /* lighter purple */
   margin: 0;
-  padding: 0;
+  padding: 40px 0;
   display: flex;
-  justify-content: center;   /* center horizontally */
-  padding-top: 40px;         /* optional spacing */
-  padding-bottom: 40px;
+  justify-content: center;  /* center horizontally */
 }
 
-/* Main content box, centered */
+/* Content box */
 .inner {
-  background-color: #46246a; /* dark purple box */
-  width: 90%;
-  max-width: 800px;          /* squeeze page into center column */
+  background-color: #46246a; /* dark purple */
+  max-width: 800px;          /* squeeze width */
+  width: 90%;                /* responsive */
   padding: 30px;
   border-radius: 16px;
   color: white;
   box-shadow: 0 0 20px rgba(0,0,0,0.25);
 }
 
-/* Make sure text shows properly on dark bg */
+/* Headings and text inside box */
 h1, h2, h3, h4, h5, h6,
 p, li, a, strong, em {
   color: white;
