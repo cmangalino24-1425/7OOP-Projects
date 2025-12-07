@@ -1,6 +1,6 @@
 /* Light purple background for whole page */
 body {
-  background-color: #9A7FAE; /* lighter purple */
+  background-color: #E6D6F0; /* lighter purple */
   margin: 0;
   padding: 40px 0;
   display: flex;
@@ -9,7 +9,7 @@ body {
 
 /* Content box */
 .inner {
-  background-color: #46246a; /* dark purple */
+  background-color: #9A7FAE; /* dark purple */
   max-width: 800px;          /* squeeze width */
   width: 90%;                /* responsive */
   padding: 30px;
