@@ -1,7 +1,3 @@
-<div style="background:#C3B1E1; padding:30px;">
-
-  <div style="background:#46246a; padding:25px; border-radius:15px; color:white;">
-
 # Hi, I'm **Chriselle Mangalino** 👋
 
 ## About Me
