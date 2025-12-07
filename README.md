@@ -1,12 +1,12 @@
+# Hi, I'm **Chriselle Mangalino** 👋
+
+## About Me
 <table width="100%" style="background:#C3B1E1; padding:0; border-collapse:collapse;">
 <tr>
 <td>
 
 <div style="background:#46246a; padding:25px; border-radius:15px; color:white;">
 
-# Hi, I'm **Chriselle Mangalino** 👋
-
-## About Me
 <img src="assets/img/profile.jpg" alt="Your Name headshot" width="160" align="right" />
 Bio
 
