@@ -1,10 +1,15 @@
 /* Light purple background for whole page */
-body {
+html, body {
+  height: 100%;
   background-color: #E6D6F0; /* lighter purple */
   margin: 0;
-  padding: 40px 0;
+}
+
+body {
   display: flex;
   justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically */
+  padding: 20px;
 }
 
 /* Content box */
