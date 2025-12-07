@@ -1,20 +1,15 @@
 /* Light purple background for whole page */
-html, body {
-  height: 100%;
+body {
   background-color: #E6D6F0; /* lighter purple */
   margin: 0;
-}
-
-body {
+  padding: 40px 0;
   display: flex;
   justify-content: center;  /* center horizontally */
-  align-items: center;      /* center vertically */
-  padding: 20px;
 }
 
 /* Content box */
 .inner {
-  background-color: #9A7FAE; /* dark purple */
+  background-color: #46246a; /* dark purple */
   max-width: 800px;          /* squeeze width */
   width: 90%;                /* responsive */
   padding: 30px;
