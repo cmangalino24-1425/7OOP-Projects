@@ -1,3 +1,9 @@
+<table width="100%" style="background:#C3B1E1; padding:0; border-collapse:collapse;">
+<tr>
+<td>
+
+<div style="background:#46246a; padding:25px; border-radius:15px; color:white;">
+
 # Hi, I'm **Chriselle Mangalino** 👋
 
 ## About Me
@@ -35,7 +41,7 @@ Bio
 <div align="left" style="line-height: 2;">
   <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%201.%20Encapsulation.pdf" target="_blank">Finals Lab Task 1. Encapsulation</a></p>
   <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%202.%20Inheritance.pdf" target="_blank">Finals Lab Task 2. Inheritance</a></p>
-  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%203.%20Polymorphism.pdf" target="_blank">Finals Lab Task 3. Polymorphism</a></p>
+  <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%203.%20Polymorphism.pdf" target="_blank">Finals Lab Task 3. Polymorphism</a></p>
   <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20task%204.%20Designing%20Tkinter%20GUI%20using%20OOP.pdf" target="_blank">Finals Lab task 4. Designing Tkinter GUI using OOP</a></p>
   <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%205.%20Designing%20a%20Tkinter%20Window%20and%20adding%20events.pdf" target="_blank">Finals Lab Task 5. Designing a Tkinter Window and adding events</a></p>
   <p>📄 <a style="color:#C3B1E1;" href="./projects/Finals%20Lab%20Task%206.%20Mysql%20and%20Pythod%20CRUD%20using%20CLI.pdf" target="_blank">Finals Lab Task 6. Mysql and Pythod CRUD using CLI</a></p>
@@ -54,5 +60,8 @@ Bio
 
 > *Feel free to reach out for collaboration or just to say hi!*
 
-  </div>
 </div>
+
+</td>
+</tr>
+</table>
