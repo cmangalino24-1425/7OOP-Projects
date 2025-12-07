@@ -1,3 +1,15 @@
 title: "My Portfolio in 7OOP1"
 description: "Projects and works by Chriselle Mangalino"
 theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+include:
+  - assets
+
+theme: jekyll-theme-minimal
+
+custom_css: assets/css/style.css
