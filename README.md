@@ -7,7 +7,7 @@
 <h1>Hi, I'm <strong>Chriselle Mangalino</strong> 👋</h1>
 
 <h2>About Me</h2>
-<img src="assets/img/profile.jpg" alt="Your Name headshot" width="100" align="center" />
+<img src="assets/img/profile.jpg" alt="Your Name headshot" width="100" align="right" />
 Bio
 
 - 📍 Location: 298 Nursery Road Dona Agrifina subd brgy. Salapungan, Angeles City
