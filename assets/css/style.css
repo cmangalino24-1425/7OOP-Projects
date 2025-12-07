@@ -1,25 +1,32 @@
-/* Light purple background for whole page */
-body {
-  background-color: #E6D6F0; /* lighter purple */
+/* Force background for the entire page */
+html, body, .site, .site-content, .content {
+  background-color: #E6D6F0 !important; /* light purple */
+  height: 100%;
   margin: 0;
-  padding: 40px 0;
-  display: flex;
-  justify-content: center;  /* center horizontally */
+  padding: 0;
 }
 
-/* Content box */
+/* Center your content box */
+body {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: flex-start; /* or center if you want vertical centering */
+  padding: 40px 0 !important;
+}
+
+/* Content box styling */
 .inner {
-  background-color: #46246a; /* dark purple */
-  max-width: 800px;          /* squeeze width */
-  width: 90%;                /* responsive */
-  padding: 30px;
-  border-radius: 16px;
-  color: white;
-  box-shadow: 0 0 20px rgba(0,0,0,0.25);
+  background-color: #9A7FAE !important; /* dark purple */
+  max-width: 800px !important;
+  width: 90% !important;
+  padding: 30px !important;
+  border-radius: 16px !important;
+  color: white !important;
+  box-shadow: 0 0 20px rgba(0,0,0,0.25) !important;
 }
 
-/* Headings and text inside box */
+/* Ensure text inside box is white */
 h1, h2, h3, h4, h5, h6,
 p, li, a, strong, em {
-  color: white;
+  color: white !important;
 }
