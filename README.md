@@ -1,5 +1,5 @@
 # Hi, I'm **Chriselle Mangalino** 👋
-
+<img src="https://via.placeholder.com/1200x200/C3B1E1/FFFFFF" width="100%">
 ## About Me
 <img src="assets/img/profile.jpg" alt="Your Name headshot" width="160" align="right" />
 Bio
